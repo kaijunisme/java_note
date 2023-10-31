@@ -1,0 +1,6 @@
+name:
+  project: properties
+  resource-file: application.yml
+
+active:
+  profile: '@profileActive@'
