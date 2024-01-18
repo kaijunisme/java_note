@@ -1,4 +1,4 @@
-package com.example.netty;
+package com.example.netty.echo;
 
 import static java.lang.Thread.sleep;
 
